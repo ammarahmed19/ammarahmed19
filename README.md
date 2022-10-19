@@ -4,12 +4,12 @@ I am a Senior Electronics & Communications student at Nile University. I am curr
 [Linkedin Profile](https://www.linkedin.com/in/ammar-ahmed-ic/)
 
 Skills:
-+Programming: Python, MATLAB, C/C++, Java
-+Embedded Systems: Intermediate in AVR and ARM. Worked with ATMega32 and STM32
-+Electronics: Good understanding of both Analog IC Design and Digital IC Design. Mostly working with Cadence Virtuoso
-+Hardware PCB Design: Intermediate in PCB Design and Manufacturing. Worked with Autodesk Eagle and Altium Designer. Experienced with Hardware Simulations [LTSpice and Cadence OrCAD PSpice]
-+Robotics: I regularly participate in robotics competition (since 2016). I am proficient in creating all kinds of robots, manufacturing it, and integrating all its subsystems (motors, communication system, control system, etc..).
-+LATEX and Research Writing
+-Programming: Python, MATLAB, C/C++, Java
+-Embedded Systems: Intermediate in AVR and ARM. Worked with ATMega32 and STM32
+-Electronics: Good understanding of both Analog IC Design and Digital IC Design. Mostly working with Cadence Virtuoso
+-Hardware PCB Design: Intermediate in PCB Design and Manufacturing. Worked with Autodesk Eagle and Altium Designer. Experienced with Hardware Simulations [LTSpice and Cadence OrCAD PSpice]
+-Robotics: I regularly participate in robotics competition (since 2016). I am proficient in creating all kinds of robots, manufacturing it, and integrating all its subsystems (motors, communication system, control system, etc..).
+-LATEX and Research Writing
 
 - 👀 I’m interested in ...
   - Electromagnetics 
